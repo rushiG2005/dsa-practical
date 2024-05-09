@@ -1,13 +1,3 @@
-/*
-============================================================================
- Name : Student_Database_Handling.cpp
- Author : 23232_Abhishek Jadhav
- Version : 1.0
- Copyright : Your copyright notice
- Description : DSAL Lab Assignment No. 10
-============================================================================
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 
